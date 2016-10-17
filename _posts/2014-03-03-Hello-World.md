@@ -1,6 +1,6 @@
 ---
 layout: post
-title:The Clover Leaf is up and running!
+title: The Clover Leaf is up and running!
 ---
 
 First of all, let me just start of by celebrating our first ever blog post. Hooray!
