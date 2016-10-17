@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testing d3 with Markdown"
+title:  "Integrating d3 with Jekyll"
 date:   2016-10-17 19:45:00
 ---
 
