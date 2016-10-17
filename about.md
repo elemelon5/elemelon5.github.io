@@ -12,18 +12,11 @@ My name is Arogya Koirala, and in this blog I talk about the intersection of tec
 
 I will be aiming to post at least a couple of articles every month that cover the following concepts (in no particular order):
 
-    The role that effective data visualization, and interactive content can play in investigative journalism of today,
-    The emerging need for journalists of today to expand their competencies to serve these needs,
-    The state of technology policy in Nepal, and current efforts to improve the same,
-    The state of the open data initiative that is currently under way in Nepal
-
-If you find any of my work helpful, and would like to use it or collaborate in any way, feel free to reach out to me at arogyakoirala@gmail.com
-
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- The role that effective data visualization, and interactive content can play in investigative journalism of today,
+- The emerging need for journalists of today to expand their competencies to serve these needs,
+- The state of technology policy in Nepal, and current efforts to improve the same,
+- The state of the open data initiative that is currently under way in Nepal
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you find any of my work helpful, and would like to use it or collaborate in any way, feel free to reach out to me at [arogyakoirala@gmail.com](mailto:arogyakoirala@gmail.com)
